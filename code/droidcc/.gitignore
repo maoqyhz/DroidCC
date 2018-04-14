@@ -1,0 +1,7 @@
+# IntelliJ project files
+/.idea/
+/data/
+.ipynb_checkpoints
+
+*.pyc
+

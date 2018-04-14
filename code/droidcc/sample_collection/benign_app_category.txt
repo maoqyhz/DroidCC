@@ -1,0 +1,15 @@
+weather
+art_and_design
+communication
+business
+books_and_reference
+education
+finance
+tools
+social
+music_and_audio
+photography
+productivity
+food_and_drink
+house_and_home
+health_and_fitness
