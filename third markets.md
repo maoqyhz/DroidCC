@@ -1,0 +1,53 @@
+- 1Mobile: http://www.1mobile.com/
+- 3310： http://apk.3310.com
+- 7723: http://3g.7723.cn/
+- ACMarket: http://acmarket.net
+- Amazon: http://www.amazon.com/mobile-apps/b?node=2350149011
+- AndroidDrawer: http://www.androiddrawer.com/
+- AnGeeks: http://www.angeeks.com/
+- Anruan: http://www.anruan.com/
+- Anzhi: http://anzhi.com/
+- AOnline: https://www.andapponline.com/
+- Apk20: http://www.apk20.com/
+- APK4Fun: http://www.apk4fun.com/
+- ApkHere: http://www.apkhere.com/
+- APKMirror: http://www.apkmirror.com/
+- Apkpure: https://apkpure.com
+- AppChina: http://www.appchina.com/
+- App Fun: http://appfun.cn/
+- AppsApk: http://appsapk.com
+- Appszoom: http://www.appszoom.com/
+- Aptoide: http://www.aptoide.com/ (Portugal)
+- Baidu: http://shouji.baidu.com/ 
+- Camangi Market: http://www.camangimarket.com/index.html
+- China Mobile: http://mm.10086.cn/
+- CNMO: http://app.cnmo.com/
+- CoolApk: http://coolapk.com
+- Crsky: http://android.crsky.com
+- EOE Market: http://www.eoemarket.com/
+- Flyme: http://app.flyme.cn/
+- FreewareLovers: http://www.freewarelovers.com/android
+- F-Droid: https://f-droid.org/
+- GetJar: http://www.getjar.com/
+- gFan: http://apk.gfan.com/
+- HiApk: http://www.hiapk.com/
+- HiAppHere: http://www.hiapphere.site/
+- Huawei: http://appstore.huawei.com/
+- Lenove: http://www.lenovomm.com/
+- MI: http://app.mi.com/
+- Mob: http://mob.org/
+- Mobogenie: http://www.mobogenie.com/
+- Mumayi:http://www.mumayi.com/
+- NDuo: http://www.nduoa.com | http://www.nduo.cn
+- Pandaapp: http://download.pandaapp.com/
+- Phoload: http://www.phoload.com/
+- QQ: http://sj.qq.com/myapp/
+- Samsung: http://www.samsung.com/cn/apps/mobile/galaxyapps/
+- SlideMe: http://slideme.org
+- Soc.io: http://soc.io/apps
+- TorrApk: https://www.torrapk.com/
+- Uptodown: http://en.uptodown.com/android
+- Wandoujia: http://www.wandoujia.com/apps
+- Wangyi: http://m.163.com/android/index.html
+- ZOL: http://sj.zol.com.cn
+- ZTE: http://apps.ztems.com/
