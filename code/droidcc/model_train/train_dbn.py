@@ -9,14 +9,17 @@ import numpy as np
 from sklearn.metrics import confusion_matrix, classification_report, roc_auc_score
 from sklearn.model_selection import train_test_split
 from sklearn.metrics.classification import accuracy_score
+import pickle
 import pandas as pd
 from dbn.tensorflow import SupervisedDBNClassification
 import matplotlib.pyplot as plt
 from sklearn.metrics import roc_curve, auc
+import sys
 
 np.random.seed(1337)  # for reproducibility
 
 dataset = pd.read_csv("../data/sample-3000.csv")
+
 X = dataset.drop("label", 1).values
 Y = dataset["label"].values
 
@@ -34,14 +37,14 @@ X_train, X_test, Y_train, Y_test = train_test_split(X, Y, test_size=0.5, random_
  :param activation_function:         激励函数
  :param dropout_p:
 """
-classifier = SupervisedDBNClassification(hidden_layers_structure=[250, 250],
+classifier = SupervisedDBNClassification(hidden_layers_structure=[200, 200, 200, 200, 200],
                                          learning_rate_rbm=0.05,
                                          learning_rate=0.1,
                                          n_epochs_rbm=10,
                                          n_iter_backprop=100,
-                                         batch_size=50,
+                                         batch_size=100,
                                          activation_function='relu',
-                                         dropout_p=0.2)
+                                         dropout_p=0)
 classifier.fit(X_train, Y_train)
 
 # Test

@@ -35,12 +35,11 @@ np.random.seed(1337)  # for reproducibility
 # dataset['label'] = dataset['label'].map(lambda x: foo(x))
 # dataset.to_csv("sample-3000_word2vec_weka.csv", index=False)
 
-dataset = pd.read_csv("../data/sample-3000_word2vec.csv")
+dataset = pd.read_csv("D:\\Coding\\git repo\\DroidCC\\code\\droidcc\\data\\sample-3000_word2vec.csv")
 X = dataset.drop("label", 1)
 Y = dataset["label"]
 # # Splitting data
 X_train, X_test, Y_train, Y_test = train_test_split(X.values, Y.values, test_size=0.5, random_state=0)
-
 
 # Training
 """
@@ -53,12 +52,12 @@ X_train, X_test, Y_train, Y_test = train_test_split(X.values, Y.values, test_siz
  :param activation_function:         激励函数
  :param dropout_p:
 """
-classifier = SupervisedDBNClassification(hidden_layers_structure=[250, 250],
+classifier = SupervisedDBNClassification(hidden_layers_structure=[500, 500],
                                          learning_rate_rbm=0.05,
                                          learning_rate=0.1,
                                          n_epochs_rbm=10,
                                          n_iter_backprop=100,
-                                         batch_size=50,
+                                         batch_size=100,
                                          activation_function='relu',
                                          dropout_p=0.2)
 classifier.fit(X_train, Y_train)

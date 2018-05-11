@@ -15,9 +15,9 @@ import os
 # In[13]:
 
 
-PATH = "test_data.txt"
-BASE_PATH = "static\\benign\\apkpure - 1000\\"
-FEATURE_PATH = "features.txt"
+# PATH = "test_data.txt"
+BASE_PATH = "D:\\Coding\\git repo\\DroidCC\\code\\droidcc\\data\\static\\benign\\apkpure - 1000\\"
+FEATURE_PATH = "D:\\Coding\\git repo\\DroidCC\\code\\droidcc\\data\\features.txt"
 
 
 def get_feature_list():
