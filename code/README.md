@@ -9,8 +9,8 @@ decompress and Decompile smali code from apk using apktool.
 feature extraction and train model.
 
 ### 实验的主要步骤
-![1](..\code\1.png)
+![1](https://github.com/maoqyhz/DroidCC/blob/master/code/1.png)
 
 
 ### 提取的特征种类
-![1](..\code\2.png)
+![1](https://github.com/maoqyhz/DroidCC/blob/master/code/2.png)
